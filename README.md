@@ -7,4 +7,6 @@ Este projeto realiza uma análise exploratória dos dados de vendas de uma loja 
 - Identificar padrões de comportamento do consumidor e sazonalidade.
 - Propor campanhas de marketing baseadas nos insights obtidos.
 
+![image](https://github.com/user-attachments/assets/a5f3294f-3655-4b30-befb-194b3a4b014c)
+
 Ao longo do tempo, planejo adicionar novas atualizações e incluir mais gráficos. Fique à vontade para contribuir e compartilhar suas sugestões!
